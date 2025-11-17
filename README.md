@@ -1,4 +1,4 @@
-# 🎨 Computer Graphics Documentation
+# 🎨 Computer Graphics Documentation(for my friends)
 
 This repository contains detailed notes and explanations related to **Computer Graphics (CG)** — a subject of BCA.  
 It covers the basic concepts, algorithms, and hardware–software used for graphical representation in computers.
